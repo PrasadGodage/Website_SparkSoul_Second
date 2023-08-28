@@ -261,7 +261,7 @@ section {
 .apply .btn-getstarted:focus {
   font-size: 16px;
   color: var(--color-white);
-  background: var(--color-primary);
+  background: #0c90e7;
   padding: 8px 23px;
   border-radius: 4px;
   transition: 0.3s;
@@ -819,8 +819,8 @@ section {
   background: rgba(var(--color-secondary-rgb), 0.4);
   color: rgba(var(--color-white-rgb), 0.98);
   border-radius: 50px;
-  width: 54px;
-  height: 54px;
+  width: 40px;
+  height: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1579,8 +1579,8 @@ section {
 
 .features .tab-pane h3 {
   font-weight: 600;
-  font-size: 36px;
-  color: var(--color-secondary);
+  font-size: 24px;
+  color: #0c90e7;
 }
 
 .features .tab-pane ul {
@@ -1595,7 +1595,7 @@ section {
 .features .tab-pane ul i {
   font-size: 14px;
   margin-right: 4px;
-  color: var(--color-primary);
+  color:#0c90e7;
 }
 
 .features .tab-pane p:last-child {
